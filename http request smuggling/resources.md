@@ -18,7 +18,7 @@ This document provides a curated list of **free resources** to learn, understand
 ### 4. [Bright Security Blog](https://www.brightsec.com/blog/http-request-smuggling-hrs/)
 - Complete breakdown of HRS techniques and defenses.
 
-### 5. [OWASP Guide](https://owasp.org/www-community/attacks/HTTP_Request_Smuggling)
+### 5. [OWASP Guide](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/15-Testing_for_HTTP_Splitting_Smuggling)
 - Community-driven definitions and techniques.
 
 ---
@@ -31,7 +31,7 @@ This document provides a curated list of **free resources** to learn, understand
 ### 2. [TryHackMe – HTTP Request Smuggling Room](https://tryhackme.com/room/httprequestsmuggling)
 - Guided lab environment and scenarios.
 
-### 3. [HackTricks Cheatsheet](https://book.hacktricks.xyz/pentesting-web/http-request-smuggling)
+### 3. [HackTricks Cheatsheet](https://book.hacktricks.wiki/en/pentesting-web/http-request-smuggling/index.html))
 - Payloads and testing strategies.
 
 ---
@@ -48,7 +48,6 @@ This document provides a curated list of **free resources** to learn, understand
 
 ## 🎥 YouTube Videos
 
-- [LiveOverflow – HRS Deep Dive](https://www.youtube.com/watch?v=FhF1nZk8jls)
 - [InsiderPhD – Burp Suite Tutorial](https://www.youtube.com/watch?v=dDxfkF5X-8I)
 - [james kettle videos]
 ---
